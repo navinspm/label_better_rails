@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["navinspm@gmail.com"]
   spec.summary       = "gemmified label_better jquery plugin that styles the input field labels"
   spec.description   = 'Its a gemmifiied version of jquery plugin label_better http://www.thepetedesign.com/demos/label_better_demo.html'
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/navinspm/label_better_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
