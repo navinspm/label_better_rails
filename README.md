@@ -1,6 +1,6 @@
 Label your form input like a boss with beautiful animation and without taking up space
 
-![Alt text](/home/ideology/Desktop/687474703a2f2f7777772e7468657065746564657369676e2e636f6d2f696d616765732f6c6162656c5f6265747465725f696d6167652e706e67.png "Optional title")
+![Screen shot](https://camo.githubusercontent.com/7ac2e9342c68bf5b6584058e2b6c79a65ec6e0df/687474703a2f2f7777772e7468657065746564657369676e2e636f6d2f696d616765732f6c6162656c5f6265747465725f696d6167652e706e67 "screen shot")
 
 ## Installation
 
